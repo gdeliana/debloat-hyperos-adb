@@ -53,7 +53,6 @@ pm uninstall -k --user 0 com.google.android.apps.plus
 pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.apps.youtube.music
-pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 pm uninstall -k --user 0 com.google.android.marvin.talkback
 pm uninstall -k --user 0 com.google.android.music
