@@ -291,4 +291,3 @@ pm uninstall -k --user 0 org.mipay.android.manager
 pm uninstall -k --user 0 com.android.updater
 pm uninstall -k --user 0 com.miui.misightservice
 pm uninstall -k --user 0 com.xiaomi.registration
-pm uninstall -k --user 0 com.google.android.ext.services
